@@ -28,3 +28,46 @@ Welcome to the FullStackPC Components website! This is a full-stack web applicat
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/fullstackpc-components.git
+
+## Usage
+
+- **Explore Components:**
+  Browse the catalog to find the latest and best PC components.
+
+- **User Account:**
+  Create an account to unlock additional features such as saving favorite components and tracking order history.
+
+- **Add to Cart:**
+  Easily add components to your cart and proceed to checkout.
+
+- **Search and Filter:**
+  Use the search bar and filters to quickly find components that match your requirements.
+
+## Technologies
+
+- **Frontend:**
+  - React
+  - Redux for state management
+  - React Router for navigation
+  - React-Bootstrap for UI components
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB for data storage
+  - Mongoose as the ODM
+
+- **Authentication:**
+  - JSON Web Tokens (JWT)
+
+- **Development Tools:**
+  - Git for version control
+  - npm as the package manager
+ 
+## Current Status
+
+   - Admin Functionality is not yet developed.
+   - This is a test website and is not yet ready for deployment.
+
+
+
