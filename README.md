@@ -26,7 +26,7 @@ Welcome to the FullStackPC Components website! This is a full-stack web applicat
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fullstackpc-components.git
+   git clone https://github.com/arvind200323/techtrove.git
 
 ## Usage
 
