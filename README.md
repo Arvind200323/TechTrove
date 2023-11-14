@@ -1,6 +1,6 @@
-# FullStackPC Components Website
+# TechTrove - A FullStack PC Components Website
 
-Welcome to the FullStackPC Components website! This is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This platform is designed to help users explore, compare, and purchase PC components for building their dream PCs.
+This is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This platform is designed to help users explore, compare, and purchase PC components for building their dream PCs.
 
 ## Table of Contents
 
