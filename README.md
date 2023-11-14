@@ -8,8 +8,7 @@ Welcome to the FullStackPC Components website! This is a full-stack web applicat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Current Status](#currentstatus)
 
 ## Features
 
