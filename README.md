@@ -65,8 +65,8 @@ TechTrove is a full-stack web application built using the MERN (MongoDB, Express
  
 ## Current Status
 
-   - Admin Functionality Panel in development. (Access via Terminal)
-   - This is a test website and is not yet ready for deployment.
+   - Development of the Admin Functionality Panel is ongoing, with current access limited to the terminal.
+   - This is a dev website and is not yet scaled for deployment.
 
 
 
