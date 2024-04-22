@@ -1,4 +1,4 @@
-# TechTrove - A FullStack PC Components Website
+# TechTrove - A FullStack PC Components Marketplace
 
 TechTrove is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This platform is designed to help users explore, compare, and purchase PC components for building their dream PCs.
 
